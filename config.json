@@ -1,0 +1,64 @@
+{
+  "name": "Technilogy",
+  "identifier": "koapp-theme-technology",
+  "description": {
+    "en-US" : "",
+    "es-ES" : "Plantilla basada en las guías de diseño de Material Design"
+  },
+  "version": "1.0",
+  "author": "King of App",
+  "category": [
+    "material-design"
+  ],
+  "price": 0,
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "showOn": {
+    "market": true
+  },
+  "images" : {
+    "list" : "images/list.png",
+    "screenshots" : [
+      "images/screenshot01.png",
+      "images/screenshot02.png"
+    ],
+    "popover" : "images/popover.png",
+    "banner" : "images/banner.png"
+  },
+  "defaultConfig": {
+    "colors": {
+      "primaryTextColor": "#444444",
+      "primaryBackgroundColor": "#ffffff",
+      "secondaryTextColor": "#444444",
+      "disabledTextColor": "#313238",
+      "dividerColor": "#e0e0e0",
+      "primaryColor": "#373b50",
+      "lightPrimaryColor": "#c5cae9",
+      "darkPrimaryColor": "#373b50",
+      "accentColor": "#ff4081",
+      "lightAccentColor": "#ff4081",
+      "darkAccentColor": "#ff4081",
+      "errorColor": "#dd2c00",
+      "backgroundColor": "#ffffff"
+    },
+    "images": {
+      "background": ""
+    },
+    "fonts": {
+      "primaryFontFamily": {
+        "name": "Source Sans Pro",
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro"
+      },
+      "titleFontFamily": {
+        "name": "Oxygen",
+        "url": "https://fonts.googleapis.com/css?family=Oxygen"
+      }
+    },
+    "menu": "polymermenu"
+  },
+  "subscription": false,
+  "main": "themes/koapp-theme-technology/koapp-theme-technology.html"
+}
