@@ -1,6 +1,6 @@
 /* General styles */
 
-.module > a {
+a {
   color: inherit;
   display: block;
   text-decoration: none;
